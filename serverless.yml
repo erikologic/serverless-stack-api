@@ -1,5 +1,6 @@
-org: mrenrich84
-app: notes-app
+## org & app force serverless into logging in the dashboard
+#org: mrenrich84
+#app: notes-app
 service: notes-app-2-api
 
 # Create an optimized package for our functions
